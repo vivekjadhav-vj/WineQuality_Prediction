@@ -3,13 +3,13 @@ Problem Statement:
 To build a methodology to Prediction for Wine Quality.
 
 
-Deployment
+<Deployment:>
 We will be deploying the model to the Heroku Cloud platform. 
 Deployment Link: https://wine-quality-prediction-vj.herokuapp.com/
 
 
 
-Result:
+<Result:>
 
 Predict value  ≤  3  →→    Result = 'Bad'
 Predict value = 4    →→   Result = 'Below Average'
