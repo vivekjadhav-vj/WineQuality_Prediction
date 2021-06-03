@@ -1,6 +1,12 @@
 ## Problem Statement:
-
 To build a methodology to Prediction for Wine Quality.
+
+In this project, I am building a methodology for
+Prediction for Wine Quality.
+ In this project, I am using KNN, Decision tree,
+RandomForestClassifier, XGBClassifier algorithms.
+ I have deployed the model Hiroku on the
+cloud platform.
 
 
 ## Deployment:
