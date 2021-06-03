@@ -26,3 +26,5 @@ Deployment Link: https://wine-quality-prediction-vj.herokuapp.com/
 #Predict value ≥  8  →→   Result = 'Excellent'
 
 
+
+
